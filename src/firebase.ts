@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_AUTH_DOMAIN",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_STORAGE_BUCKET",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID",
+   apiKey: "AIzaSyChcZSvXs0PKPSM3VAEjJXLWWA1YXIRtDM",
+  authDomain: "sbrmaintenanceapp182a.firebaseapp.com",
+  projectId: "sbrmaintenanceapp182a",
+  storageBucket: "sbrmaintenanceapp182a.firebasestorage.app",
+  messagingSenderId: "37100512950",
+  appId: "1:37100512950:web:56599b7eb56f100f586817"
 };
 
 const app = initializeApp(firebaseConfig);
